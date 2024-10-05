@@ -28,6 +28,10 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "エクスポート",
+            link: "/ja/export",
+          },
         ],
       },
     },
@@ -41,6 +45,10 @@ export default defineConfig({
         items: [
           { text: "Advanced properties", link: "/shape-advanced-properties" },
         ],
+      },
+      {
+        text: "Export",
+        link: "/export",
       },
     ],
     socialLinks: [
