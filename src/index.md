@@ -19,9 +19,12 @@ hero:
 features:
   - title: Versatile snapping
     details: Things will stick to where you really need
+    icon: 🥅
   - title: Flexible shape modification
     details: The more tweakable, the more fun
+    icon: 🛠️
   - title: Save or export everything to your device
     details: Because it's yours
+    icon: 📁
 ---
 

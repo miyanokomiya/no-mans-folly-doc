@@ -19,9 +19,12 @@ hero:
 features:
   - title: 万能なスナッピング
     details: 吸い付いてほしいところに全てがぴっと吸い付く
+    icon: 🥅
   - title: 柔軟なシェイプ調整
     details: 調整可能部分は多ければ多いほど楽しい
+    icon: 🛠️
   - title: 保存もエクスポートもあなたのデバイスに
     details: なぜならあなたのものなのだから
+    icon: 📁
 ---
 
