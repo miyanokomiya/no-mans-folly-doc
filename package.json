@@ -1,0 +1,14 @@
+{
+  "name": "no-mans-folly-doc",
+  "version": "0.0.0",
+  "type": "module",
+  "packageManager": "yarn@4.0.2",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "^1.3.4"
+  }
+}
