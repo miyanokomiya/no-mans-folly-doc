@@ -5,7 +5,7 @@ export default defineConfig({
   srcDir: './src',
   title: "No-man's folly",
   description: "Documentation for No-man's folly",
-  head: [['link', { rel: 'icon', href: '/assets/no-mans-folly.svg' }]],
+  head: [['link', { rel: 'icon', href: '/no-mans-folly.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

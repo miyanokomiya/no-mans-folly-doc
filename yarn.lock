@@ -1814,6 +1814,7 @@ __metadata:
   resolution: "no-mans-folly-doc@workspace:."
   dependencies:
     vitepress: "npm:^1.3.4"
+    vue: "npm:^3.5.11"
   languageName: unknown
   linkType: soft
 
@@ -2421,7 +2422,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue@npm:^3.4.38":
+"vue@npm:^3.4.38, vue@npm:^3.5.11":
   version: 3.5.11
   resolution: "vue@npm:3.5.11"
   dependencies:

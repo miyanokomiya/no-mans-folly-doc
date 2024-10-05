@@ -13,7 +13,7 @@ hero:
       text: Document
       link: /shape-advanced-properties
   image:
-    src: /assets/misc.png
+    src: /misc.png
     alt: "No-man's folly"
 
 features:
