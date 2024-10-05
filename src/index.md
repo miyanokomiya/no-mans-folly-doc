@@ -4,22 +4,24 @@ layout: home
 
 hero:
   name: "No-man's folly"
-  text: "Documentation for No-man's folly."
-  tagline: My great project tagline
+  text: "Free diagram tool for people who love diagramming within"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Application
+      link: https://no-mans-folly.com/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Document
+      link: /shape-advanced-properties
+  image:
+    src: /assets/misc.png
+    alt: "No-man's folly"
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Versatile snapping
+    details: Things will stick to where you really need
+  - title: Flexible shape modification
+    details: The more tweakable, the more fun
+  - title: Save or export everything to your device
+    details: Because it's yours
 ---
 
