@@ -3,6 +3,9 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "./src",
+  sitemap: {
+    hostname: "https://doc.no-mans-folly.com",
+  },
   title: "No-man's folly",
   description: "Documentation for No-man's folly",
   head: [["link", { rel: "icon", href: "/no-mans-folly.svg" }]],
