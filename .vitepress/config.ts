@@ -27,7 +27,7 @@ export default defineConfig({
             items: [
               { text: "ライン", link: "/ja/shape-line" },
               {
-                text: "高度な属性値",
+                text: "高度なプロパティ",
                 link: "/ja/shape-advanced-properties",
               },
             ],
