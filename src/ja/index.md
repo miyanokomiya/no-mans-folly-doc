@@ -10,7 +10,7 @@ hero:
       text: アプリケーション
       link: https://no-mans-folly.com/
     - theme: alt
-      text: ドキュメント
+      text: ドキュメンテーション
       link: /ja/shape-line
   image:
     src: /misc.png
