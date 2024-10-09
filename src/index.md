@@ -10,8 +10,8 @@ hero:
       text: Application
       link: https://no-mans-folly.com/
     - theme: alt
-      text: Document
-      link: /shape-advanced-properties
+      text: Documentation
+      link: /shape-line
   image:
     src: /misc.png
     alt: "No-man's folly"

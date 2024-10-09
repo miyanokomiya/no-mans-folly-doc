@@ -11,7 +11,7 @@ hero:
       link: https://no-mans-folly.com/
     - theme: alt
       text: ドキュメント
-      link: /ja/shape-advanced-properties
+      link: /ja/shape-line
   image:
     src: /misc.png
     alt: "No-man's folly"
