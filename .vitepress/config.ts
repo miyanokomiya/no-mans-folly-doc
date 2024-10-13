@@ -39,6 +39,7 @@ export default defineConfig({
           {
             text: "設定",
             items: [
+              { text: "グリッド", link: "/ja/settings/grid" },
               { text: "プレビューダイアログ", link: "/ja/settings/preview-dialog" },
             ],
           },
@@ -63,7 +64,10 @@ export default defineConfig({
       },
       {
         text: "Settings",
-        items: [{ text: "Preview dialog", link: "/settings/preview-dialog" }],
+        items: [
+          { text: "Grid", link: "/settings/grid" },
+          { text: "Preview dialog", link: "/settings/preview-dialog" },
+        ],
       },
     ],
     socialLinks: [
