@@ -36,6 +36,12 @@ export default defineConfig({
             text: "エクスポート",
             link: "/ja/export",
           },
+          {
+            text: "設定",
+            items: [
+              { text: "プレビューダイアログ", link: "/ja/settings/preview-dialog" },
+            ],
+          },
         ],
       },
     },
@@ -54,6 +60,10 @@ export default defineConfig({
       {
         text: "Export",
         link: "/export",
+      },
+      {
+        text: "Settings",
+        items: [{ text: "Preview dialog", link: "/settings/preview-dialog" }],
       },
     ],
     socialLinks: [
