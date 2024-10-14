@@ -23,6 +23,10 @@ export default defineConfig({
         nav: [{ text: "ホーム", link: "/ja" }],
         sidebar: [
           {
+            text: "ワークスペース",
+            items: [{ text: "ワークスペースファイル", link: "/ja/workspace-files" }],
+          },
+          {
             text: "シェイプ",
             items: [
               { text: "ライン", link: "/ja/shape-line" },
@@ -40,7 +44,10 @@ export default defineConfig({
             text: "設定",
             items: [
               { text: "グリッド", link: "/ja/settings/grid" },
-              { text: "プレビューダイアログ", link: "/ja/settings/preview-dialog" },
+              {
+                text: "プレビューダイアログ",
+                link: "/ja/settings/preview-dialog",
+              },
             ],
           },
         ],
@@ -51,6 +58,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
     sidebar: [
+      {
+        text: "Workspace",
+        items: [{ text: "Workspace files", link: "/workspace-files" }],
+      },
       {
         text: "Shapes",
         items: [
