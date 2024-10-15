@@ -11,7 +11,7 @@ hero:
       link: https://no-mans-folly.com/
     - theme: alt
       text: Documentation
-      link: /shape-line
+      link: /workspace-files
   image:
     src: /misc.png
     alt: "No-man's folly"
