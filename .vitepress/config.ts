@@ -84,7 +84,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/miyanokomiya/no-mans-folly-doc",
+        link: "https://github.com/miyanokomiya/no-mans-folly",
       },
     ],
   },
