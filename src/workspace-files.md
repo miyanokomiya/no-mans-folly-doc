@@ -30,8 +30,7 @@ Asset files aren't automatically deleted even if they are no longer used in the 
 Currently, there's no good way to know which asset files aren't used in the diagram.
 
 ## Without workspace
-You can make a diagram with no workspace, but the diagram data will be gone unless it's saved to a workspace before you leave the page.  
-You cannot import asset files when no workspace is prepared for the diagram.
+You can make a diagram with no workspace, but the diagram data will be gone unless it's saved to a workspace before you leave the page.
 
 ## File format
 The formart of `diagram.folly` and `[sheet id].folly` files are binary format provided by [Yjs](https://docs.yjs.dev/).
