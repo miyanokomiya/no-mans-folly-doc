@@ -53,6 +53,10 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "オフラインサポート",
+            link: "/ja/offline",
+          },
         ],
       },
     },
@@ -85,6 +89,10 @@ export default defineConfig({
           { text: "Grid", link: "/settings/grid" },
           { text: "Preview dialog", link: "/settings/preview-dialog" },
         ],
+      },
+      {
+        text: "Offline support",
+        link: "/offline",
       },
     ],
     socialLinks: [
