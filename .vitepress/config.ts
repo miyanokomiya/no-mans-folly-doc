@@ -24,7 +24,10 @@ export default defineConfig({
         sidebar: [
           {
             text: "ワークスペース",
-            items: [{ text: "ワークスペースファイル", link: "/ja/workspace-files" }],
+            items: [
+              { text: "ワークスペースファイル", link: "/ja/workspace-files" },
+              { text: "ローカルワークスペース", link: "/ja/workspace-local" },
+            ],
           },
           {
             text: "シェイプ",
@@ -60,7 +63,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "Workspace",
-        items: [{ text: "Workspace files", link: "/workspace-files" }],
+        items: [
+          { text: "Workspace files", link: "/workspace-files" },
+          { text: "Local workspace", link: "/workspace-local" },
+        ],
       },
       {
         text: "Shapes",
