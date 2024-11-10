@@ -1,7 +1,7 @@
 # Line attachment
 
 ## Turn on / off
-Line attachment functionality be turned on / off in the setting panel.
+Line attachment functionality can be turned on / off in the setting panel.
 
 ![](/assets/setting-panel.png)
 
