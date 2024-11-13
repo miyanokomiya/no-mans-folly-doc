@@ -27,6 +27,7 @@ const themeConfig = {
       text: "Settings",
       items: [
         { text: "Grid", link: "/settings/grid" },
+        { text: "Snap", link: "/settings/snap" },
         { text: "Preview dialog", link: "/settings/preview-dialog" },
       ],
     },
@@ -67,6 +68,7 @@ const themeConfigJA: ThemeConfig = {
       text: "設定",
       items: [
         { text: "グリッド", link: "/ja/settings/grid" },
+        { text: "スナップ", link: "/ja/settings/snap" },
         {
           text: "プレビューダイアログ",
           link: "/ja/settings/preview-dialog",
