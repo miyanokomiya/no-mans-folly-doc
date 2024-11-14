@@ -16,7 +16,7 @@ Paris of shapes within the viewport also generate snapping guidelines to align s
 You can change how general snapping works in the setting panel.
 
 ### Ignore line
-Lines generate general snapping guidelines as well as shapes when this is turne off.
+Lines generate general snapping guidelines as well as shapes when this is turned off.
 
 ![](/assets/setting-general-snap-line-off.png)
 
