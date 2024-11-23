@@ -15,6 +15,7 @@ const themeConfig = {
       text: "Shapes",
       items: [
         { text: "Lines", link: "/shape-line" },
+        { text: "Line connections", link: "/shape-line-connection" },
         { text: "Line attachments", link: "/shape-line-attachment" },
         { text: "Advanced properties", link: "/shape-advanced-properties" },
       ],
@@ -53,6 +54,7 @@ const themeConfigJA: ThemeConfig = {
       text: "シェイプ",
       items: [
         { text: "ライン", link: "/ja/shape-line" },
+        { text: "ラインコネクション", link: "/ja/shape-line-connection" },
         { text: "ラインアタッチメント", link: "/ja/shape-line-attachment" },
         {
           text: "高度なプロパティ",
