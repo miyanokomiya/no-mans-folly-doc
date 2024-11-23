@@ -1,18 +1,5 @@
 # Lines
 
-## Modify vertices
-You can add or delete vertices unless the line is an elbow.
-
-### Add
-Drag the anchor near by each vertex to add and move new vertex to the line.
-![](/assets/shape-line-vertices.png)
-
-### Delete
-You can delete a vertex via the context menu on the vertex.
-![](/assets/shape-line-delete-vertex-context.png)
-
-You can also delete a vertex by shift + clicking it.
-
 ## Line types
 ### Polyline
 Each segment of a polyline can become either straight, arc or bezier curve segment.
@@ -41,6 +28,27 @@ Elbow lines are automatically optimized along with connected shapes. The optimiz
 
 Internal segments can be moved along certain direction by dragging.
 ![](/assets/shape-line-elbow-move.png)
+
+## Tangent / Normal line
+You can put a tangent / normal line at the outline of a shape or a line.  
+Click either button in the toolbar, then choose the target line in the canvas.
+
+![](/assets/shape-line-tangent.png)
+
+![](/assets/shape-line-normal.png)
+
+## Modify vertices
+You can add or delete vertices unless the line is an elbow.
+
+### Add
+Drag the anchor near by each vertex to add and move new vertex to the line.
+![](/assets/shape-line-vertices.png)
+
+### Delete
+You can delete a vertex via the context menu on the vertex.
+![](/assets/shape-line-delete-vertex-context.png)
+
+You can also delete a vertex by shift + clicking it.
 
 ## Jump
 When a line has this property on, it jumps over other backward lines. Jump can happen only between straight segments.
