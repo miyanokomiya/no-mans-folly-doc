@@ -5,6 +5,10 @@ You can manage frame shapes and frame groups in the frame panel.
 
 ![](/assets/frame.png)
 
+You can add a frame or a frame group by the add button.
+
+![](/assets/frame-add.png)
+
 You can change the name of each item by the menu or double-clicking the name.
 
 ![](/assets/frame-menu.png)

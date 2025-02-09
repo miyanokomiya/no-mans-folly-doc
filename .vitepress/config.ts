@@ -23,6 +23,9 @@ const themeConfig = {
       ],
     },
     {
+      text: "Frames", link: "/shape-frame"
+    },
+    {
       text: "Export",
       link: "/export",
     },
@@ -63,8 +66,10 @@ const themeConfigJA: ThemeConfig = {
           text: "高度なプロパティ",
           link: "/ja/shape-advanced-properties",
         },
-        { text: "フレーム", link: "/ja/shape-frame" },
       ],
+    },
+    {
+      text: "フレーム", link: "/ja/frames/frame"
     },
     {
       text: "エクスポート",
