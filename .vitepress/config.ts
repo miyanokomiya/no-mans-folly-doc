@@ -19,11 +19,10 @@ const themeConfig = {
         { text: "Line attachments", link: "/shape-line-attachment" },
         { text: "Texts", link: "/shape-text" },
         { text: "Advanced properties", link: "/shape-advanced-properties" },
-        { text: "Frames", link: "/shape-frame" },
       ],
     },
     {
-      text: "Frames", link: "/shape-frame"
+      text: "Frames", link: "/frames/frame"
     },
     {
       text: "Export",
