@@ -61,3 +61,17 @@ Frame groups are always placed at the backmost position in the canvas.
 ### Grouping
 Frame groups can't belong to other shapes including other frame groups.  
 Frame groups can accommodate frame shapes only.
+
+## Export frames
+You can export shapes sectioned by frames.
+
+Click the export button in the frame panel, then the export dialog displays.
+
+![](/assets/frame-export.png)
+
+![](/assets/frame-export-dialog.png)
+
+When multiple frames are exported as files, they are compressed as ZIP file.
+
+### PDF export
+Although this application doesn't support PDF export, your browser may provide PDF print after exporting frames as `Print` format.

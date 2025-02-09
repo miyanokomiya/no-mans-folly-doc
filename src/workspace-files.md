@@ -7,7 +7,7 @@ A workspace is a folder where all data of the diagram is saved.
 
 All files and folders in the workspace, except for the workspace folder itself, are referenced to open the diagram, so you shouldn't arbitrarily change their names.
 
-This app doesn't create new workspace folder itself. You need to make a folder outside the app then choose it as a workspace in the app when you want to use new folder as a workspace.
+This application doesn't create new workspace folder itself. You need to make a folder outside the app then choose it as a workspace in the app when you want to use new folder as a workspace.
 
 ## Diagram file
 The diagram data is saved as a file named `diagram.folly`.  
