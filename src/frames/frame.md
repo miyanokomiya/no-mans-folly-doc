@@ -19,6 +19,11 @@ You can change the order of items by dragging one.
 
 ## Frame shapes
 
+### Role
+Frame shapes create sections in the canvas. Shapes on a frame shape are treated as if they were children of the frame shape without grouped.
+
+![](/assets/frame-role.png)
+
 ### Name
 Each frame shape can have name that is displayed near by. This name is visible only in the canvas and isn't printed out.
 
@@ -38,7 +43,9 @@ Frame shapes can belong to frame groups only. They can't belong to other shapes 
 Shapes on the frame are exported as part of the frame.
 
 ## Frame group
-You can create frame groups that accommodate and align multiple frames inside.
+
+### Role
+Frame groups accommodate and automatically align multiple frames inside.
 
 ![](/assets/frame-align.png)
 
