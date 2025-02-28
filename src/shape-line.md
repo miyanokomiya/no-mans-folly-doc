@@ -55,16 +55,15 @@ When a line has this property on, it jumps over other backward lines. Jump can h
 ![](/assets/shape-line-jump.png)
 
 ## Make polygon
-Lines satisfying below conditions can turn into polygon shapes having the source line as its outline.
+Lines, except for elbows, can turn into polyline or polygon shapes that have the source lines as outline.
 
-Conditions:
-- The line isn't an elbow
-- The line doesn't consist of singular straight segment
+Source line
+![](/assets/shape-makepolygon-line.png)
 
-Turn on `Make polygon` property,
-![](/assets/shape-line-polygon-before.png)
+Polyline
+![](/assets/shape-makepolygon-polyline.png)
 
-then the line turns into a polygon. The first and the last vertices automatically get closed here.
-![](/assets/shape-line-polygon-after.png)
+Polygon
+![](/assets/shape-makepolygon-polygon.png)
 
-Although this polygon can turn into the source line by turning off the property again, some properties of the line, such as shape connections or line heads, would be lost through this process.
+Although both polyline and polygon can turn into the source line again, some properties of the line, such as shape connections or line heads, would be lost through this process.
