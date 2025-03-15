@@ -1,6 +1,8 @@
 ## Align box
 An align box is a container that holds multiple shapes and aligns them according to specified alignment properties.
 
+![Add Align Box Example](/assets/shape-alignbox-add.png)
+
 ![Align Box Example](/assets/shape-alignbox.png)
 
 ### Direction
