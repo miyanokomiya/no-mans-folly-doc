@@ -49,6 +49,8 @@ Frame groups accommodate and automatically align multiple frames inside.
 
 ![](/assets/frame-align.png)
 
+Frame groups have the same alignment functionality as [Align box](/shape-alignbox).
+
 ### Name
 Each frame group can have name that is displayed near by. This name is visible only in the canvas and isn't printed out.
 

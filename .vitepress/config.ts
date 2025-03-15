@@ -18,6 +18,7 @@ const themeConfig = {
         { text: "Line connections", link: "/shape-line-connection" },
         { text: "Line attachments", link: "/shape-line-attachment" },
         { text: "Texts", link: "/shape-text" },
+        { text: "Align box", link: "/shape-alignbox" },
         { text: "Advanced properties", link: "/shape-advanced-properties" },
       ],
     },
@@ -61,6 +62,7 @@ const themeConfigJA: ThemeConfig = {
         { text: "ラインコネクション", link: "/ja/shape-line-connection" },
         { text: "ラインアタッチメント", link: "/ja/shape-line-attachment" },
         { text: "テキスト", link: "/ja/shape-text" },
+        { text: "アラインボックス", link: "/ja/shape-alignbox" },
         {
           text: "高度なプロパティ",
           link: "/ja/shape-advanced-properties",
