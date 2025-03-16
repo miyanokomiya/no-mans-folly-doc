@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "No-man's folly"
-  text: "Free diagram tool for people who love diagramming within"
+  text: "The ultimate free diagram tool for enthusiasts who love diagramming within"
   actions:
     - theme: brand
       text: Application
@@ -18,13 +18,22 @@ hero:
 
 features:
   - title: Versatile snapping
-    details: Things will stick to where you really need
-    icon: 🥅
+    details: Elements snap exactly where you need them
+    icon:
+      src: /assets/feature-snap.png
+      width: auto
   - title: Flexible shape modification
-    details: The more tweakable, the more fun
-    icon: 🛠️
+    details: More tweakable options for more fun
+    icon:
+      src: /assets/feature-tweak.png
+      width: auto
+  - title: Frame & Box align
+    details: Organize shapes with frame and box alignment
+    icon:
+      src: /assets/feature-boxalign.png
+      width: auto
   - title: Save or export everything to your device
-    details: Because it's yours
+    details: Your creations, your control
     icon: 📁
 ---
 
