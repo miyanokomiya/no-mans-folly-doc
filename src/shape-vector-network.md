@@ -11,7 +11,7 @@ Holding the `Ctrl` (Windows) or `Command` (Mac) key prevents the cursor from sna
 
 ![](/assets/vn-insert-1.png)
 
-Each line running through the node is split into two, and the split lines are connected to the node.
+If `Shift` key is held, each line running through the node is split into two, and the split lines are connected to the node. Otherwise, a new vertex connected to the node is inserted to each of them.
 
 ![](/assets/vn-insert-2.png)
 
