@@ -5,6 +5,11 @@ Alpha property changes opacity of the shape. When it's `1` the shape looks opaqu
 This property can be set in the inspector panel.
 ![Screenshot for alpha](/assets/shape-property-alpha.png)
 
+## No export
+`No export` property determines if the shape is exported in PNG, SVG and so on.  
+This property can be set in the inspector panel.
+![Screenshot for no export](/assets/vn-noexport.png)
+
 ## Group constraints
 You can set specific behavior to child shapes within the group via group constraint properties.  
 These properties can be set in the inspector panel.
