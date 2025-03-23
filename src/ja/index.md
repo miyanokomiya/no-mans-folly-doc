@@ -32,6 +32,11 @@ features:
     icon:
       src: /assets/feature-boxalign.png
       width: auto
+  - title: ベクターネットワーク
+    details: ラインとノードが織り成す可能性は無限大
+    icon:
+      src: /assets/feature-vn.png
+      width: auto
   - title: 保存もエクスポートも手元のデバイスに
     details: 作成物は、作成者の思いのままに
     icon: 📁

@@ -32,6 +32,11 @@ features:
     icon:
       src: /assets/feature-boxalign.png
       width: auto
+  - title: Vector Networks
+    details: Weave your universe with lines and nodes
+    icon:
+      src: /assets/feature-vn.png
+      width: auto
   - title: Save or export everything to your device
     details: Your creations, your control
     icon: 📁
