@@ -11,7 +11,7 @@ Holding the `Ctrl` (Windows) or `Command` (Mac) key prevents the cursor from sna
 
 ![](/assets/vn-insert-1.png)
 
-If `Shift` key is held, each line running through the node is split into two, and the split lines are connected to the node. Otherwise, a new vertex connected to the node is inserted to each of them.
+If the `Shift` key is held, each line running through the node is split into two, and the split lines are connected to the node. Otherwise, a new vertex connected to the node is inserted to each of them.
 
 ![](/assets/vn-insert-2.png)
 
@@ -36,3 +36,15 @@ If another node is already placed there, only a new line is created and connecte
 Since vector network nodes are supposed to be control anchors rather than actual shapes, you may want to hide them on export. This can be done by turning on the `No export` property for them in the inspector panel.
 
 ![](/assets/vn-noexport.png)
+
+### Create New Polygon
+
+You can create a new polygon based on a closed area consisting of vector networks.
+
+Activate the create-polygon mode from the tool panel, then click the target area.
+
+![](/assets/vn-createpolygon-2.png)
+
+If the `Shift` key is held when clicking an area, multiple areas can be selected for a new polygon.
+
+![](/assets/vn-createpolygon-1.png)
