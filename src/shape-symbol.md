@@ -1,16 +1,36 @@
+
 ## Symbol
-Symbol shape works as the link displaying the thumbnail of the target shapes. The link only works within the sheet.
+
+A symbol shape acts as a link, displaying a thumbnail of its target shapes.
+
+![](/assets/symbol-create2.png)
+
+When you create a symbol shape, it generates and saves an SVG image in the workspace. All Symbol shapes that reference the same target shapes share this SVG image.
+
+### Creating a Symbol
+
+To create a symbol shape for selected shapes, choose `Create symbol` from the context menu.
 
 ![](/assets/symbol-create1.png)
 
-![](/assets/symbol-create2.png)
+### Jumping to Target Shapes
 
-### Create symbol
-You can create a symbol shape for selected shapes by selecting `Create symbol` in the context menu.
+You can quickly navigate to the target shapes by clicking the `Jump` button on the canvas.
 
-![](/assets/symbol-create2.png)
+![](/assets/symbol-jump1.png)
 
-### Update symbol
-Symbol shapes don't automatically reflect the latest appearance of the target shapes. You need to update them manually by clicking the `Update` button in the canvas or selecting `Update symbol` in the context menu.
+> **Note:** Jumping is available only when both the target shapes and the symbol shape are on the same sheet.
 
-![](/assets/symbol-create2.png)
+### Updating a Symbol
+
+Symbol shapes do not automatically update to reflect changes in their target shapes. To refresh the thumbnail, manually click the `Update` button on the canvas,
+
+![](/assets/symbol-update1.png)
+
+or select `Update symbol` from the context menu.
+
+![](/assets/symbol-update2.png)
+
+All symbol shapes referencing the same target will be updated simultaneously.
+
+> **Note:** Updating is only possible when both the target shapes and the symbol shape are on the same sheet.

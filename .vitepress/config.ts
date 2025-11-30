@@ -19,6 +19,7 @@ const themeConfig = {
         { text: "Line attachments", link: "/shape-line-attachment" },
         { text: "Vector networks", link: "/shape-vector-network" },
         { text: "Texts", link: "/shape-text" },
+        { text: "Symbol", link: "/shape-symbol" },
         { text: "Sheet images", link: "/shape-sheet-image" },
         { text: "Align box", link: "/shape-alignbox" },
         { text: "Advanced properties", link: "/shape-advanced-properties" },
@@ -65,6 +66,7 @@ const themeConfigJA: ThemeConfig = {
         { text: "ラインアタッチメント", link: "/ja/shape-line-attachment" },
         { text: "ベクターネットワーク", link: "/ja/shape-vector-network" },
         { text: "テキスト", link: "/ja/shape-text" },
+        { text: "シンボル", link: "/ja/shape-symbol" },
         { text: "シートイメージ", link: "/ja/shape-sheet-image" },
         { text: "アラインボックス", link: "/ja/shape-alignbox" },
         {
