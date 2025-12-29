@@ -26,7 +26,12 @@ const themeConfig = {
       ],
     },
     {
-      text: "Frames", link: "/frames/frame"
+      text: "Frames",
+      link: "/frames/frame",
+    },
+    {
+      text: "Text styles",
+      items: [{ text: "Lists", link: "/text-style-list" }],
     },
     {
       text: "Export",
@@ -76,7 +81,12 @@ const themeConfigJA: ThemeConfig = {
       ],
     },
     {
-      text: "フレーム", link: "/ja/frames/frame"
+      text: "フレーム",
+      link: "/ja/frames/frame",
+    },
+    {
+      text: "テキストスタイル",
+      items: [{ text: "リスト", link: "/ja/text-style-list" }],
     },
     {
       text: "エクスポート",
