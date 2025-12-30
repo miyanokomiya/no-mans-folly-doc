@@ -30,8 +30,11 @@ const themeConfig = {
       link: "/frames/frame",
     },
     {
-      text: "Text styles",
-      items: [{ text: "Lists", link: "/text-style-list" }],
+      text: "Texts",
+      items: [
+        { text: "Lists", link: "/text-style-list" },
+        { text: "Shape Links", link: "/text-link-shape" },
+      ],
     },
     {
       text: "Export",
@@ -85,8 +88,12 @@ const themeConfigJA: ThemeConfig = {
       link: "/ja/frames/frame",
     },
     {
-      text: "テキストスタイル",
-      items: [{ text: "リスト", link: "/ja/text-style-list" }],
+      text: "テキスト",
+      items: [
+        { text: "リスト", link: "/ja/text-style-list" },
+
+        { text: "シェイプリンク", link: "/ja/text-link-shape" },
+      ],
     },
     {
       text: "エクスポート",
